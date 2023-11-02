@@ -1,0 +1,6 @@
+[submodule "PPMT_back"]
+	path = PPMT_back
+	url = https://github.com/wintiger98/PPMT_back.git
+[submodule "PPMT_front"]
+	path = PPMT_front
+	url = https://github.com/wintiger98/PPMT_front.git

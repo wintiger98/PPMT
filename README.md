@@ -1,4 +1,4 @@
-# 프로젝트 이름 (예: My Personal Project Management Tool)
+# PPMT (Personal Project Management Tool)
 
 ## 개요
 

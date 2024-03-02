@@ -1,4 +1,4 @@
-# 프로젝트 이름 (예: My Personal Project Management Tool)
+# PPMT(Personal Project Management Tool)
 
 ## 개요
 
@@ -6,11 +6,11 @@
 
 ## 기술 스택
 
-- Back-end: FastAPI ![FastAPI](https://fastapi.tiangolo.com/img/favicon.png)
-- Front-end: Vue.js ![Vue.js](https://vuejs.org/images/logo.png)
-- Containerization: Docker ![Docker](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
-- DBMS : PostgreSQL ![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)
-- Authentication : JWT (Json Web Token) ![JWT](https://jwt.io/img/pic_logo.svg)
+- Back-end: FastAPI <img src="https://fastapi.tiangolo.com/img/favicon.png" width="25">
+- Front-end: Vue.js <img src="https://vuejs.org/images/logo.png" width="25">
+- Containerization: Docker <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="25">
+- DBMS : PostgreSQL <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="25">
+- Authentication : JWT (Json Web Token) <img src="https://jwt.io/img/pic_logo.svg" width="25">
 
 ## 기능
 
